@@ -1,0 +1,10 @@
+# dataset
+/data/MNIST/
+/data/CIFAR10/
+/data/fashionMNIST/
+/data/MNIST_*/
+
+/checkpoints/
+/results/
+
+/.idea/
